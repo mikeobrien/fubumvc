@@ -1,0 +1,6 @@
+﻿<viewdata model="AssemblyBottle.TimeResponse" />
+<html>
+  <body>
+    <h3>${Model.Time}</h3>
+  </body>
+</html>
